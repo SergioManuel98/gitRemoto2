@@ -1,10 +1,5 @@
 
-/**
- * Esta clase contiene los atributos y metodos de la persona que opera.
- * @author Sergio Manuel Andujar
- * @version
- */
-public class Persona {
+    public class Persona {
 
     //DECLARACION DE LOS ATRIBUTOS DE CLASE
     String nombre;

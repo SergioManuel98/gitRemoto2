@@ -1,10 +1,6 @@
 import java.util.ArrayList;
 
-/**
- * Esta clase contiene los atributos y metodos de un Movimiento de una cuenta bancaria.
- * @author Sergio Manuel Andujar
- * @version
- */
+
 class Movimiento{
 
     //DECLARACION DE LOS ATRIBUTOS DE CLASE
